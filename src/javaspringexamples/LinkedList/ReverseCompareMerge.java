@@ -1,10 +1,10 @@
-package com.codercocoon.LinkedList;
+package javaspringexamples.LinkedList;
 
 /**
  * This class represents some operations about linked lists, especially how to
  * reverse a linked list, compare and merge two sorted linked lists.
  * 
- * @author contact@codercocoon.com.
+ * @author mounir.sahrani@gmail.com
  *
  */
 public class ReverseCompareMerge {
